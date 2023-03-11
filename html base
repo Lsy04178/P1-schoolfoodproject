@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="Chrome">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>급식 알리미</title>
+    
+</head>
+<body>
+    <P><h1>현미밥</h1></P>  <P><h1>차돌된장찌개</h1></P>   <P><h1>시금치</h1></P>   <P><h1>김치돼지두루치기</h1></P>
+    <P><h1>수육</h1></P>    <P><h1>과일컵</h1></P>
+</body>
+</html>
