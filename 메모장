@@ -1,0 +1,8 @@
+background-image: url("fos.png");
+       background-repeat: no-repeat;
+       background-position: 33px;
+       background-attachment:fixed;
+       
+//코드한줄로줄이기가능//
+{ background: #FFCCCC url("/examples/images/img_man.png") no-repeat left bottom fixed; }
+       
